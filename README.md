@@ -1,4 +1,4 @@
-youtube api analysis of channel "James Hoffmann"
+Youtube api analysis of channel "James Hoffmann"
 
 Within this project, I would like to explore the following:
 
