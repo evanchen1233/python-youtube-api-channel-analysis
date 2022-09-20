@@ -3,6 +3,7 @@ Youtube api analysis of channel "James Hoffmann"
 Within this project, I would like to explore the following:
 
 Getting to know Youtube API and how to obtain video data with python.
+(https://developers.google.com/youtube/v3/getting-started)
 
 Analyzing video data and verify different common "myths" about what makes a video do well on Youtube, for example:
 
